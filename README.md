@@ -1,2 +1,3 @@
 # over-simplified-db
-Aşırı basitleştirilmiş bir db uygulaması ve temp dosyası içinde wrapped db query fonksiyonu
+
+Basitleştirilmiş bir veritabanı örneğinde genelleştirilmiş query fonksiyonu. Transaction error yakalayıp rollback yapabiliyor.
